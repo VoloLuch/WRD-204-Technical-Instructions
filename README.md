@@ -93,16 +93,18 @@ Follow the on-screen prompts to add your finger to the system.
 
 Follow the on-screen prompts to add your face to the system.
 
-**Note:** To make sure you are on the correct screen, please refer to Figure 4. Adding your Face ID will allow you to unlock your iPhone by scanning your face through your iPhone camera.
+**Note:** To make sure you are on the correct screen, please refer to *Figure 4*. Adding your Face ID will allow you to unlock your iPhone by scanning your face through your iPhone camera.
 
 ![Figure 4: Face ID Setup](images/media/image4.png)  
 **Figure 4:** Face ID Setup
+
+---
 
 ### **Section 5: Data Transfer**
 
 Choose one of the options to transfer your data from. If you are a first-time user and do not have any data to transfer, click the last option, “Don’t Transfer Anything.” Otherwise, choose from one of the other options provided.
 
-**Note:** To make sure you are on the correct screen, please refer to Figure 4.
+**Note:** To make sure you are on the correct screen, please refer to *Figure 5*.
 
 ![Figure 5: Data Transfer Options](images/media/image5.png)  
 **Figure 5:** Data Transfer Options
@@ -123,7 +125,7 @@ Choose one of the options to transfer your data from. If you are a first-time us
 
 ### **Section 6: Personalization**
 
-You can customize your iPhone in many ways, ranging from wallpapers to the size of apps and fonts. To adjust all this information, find and click on your Settings app on your iPhone, then proceed to the corresponding section and adjust the settings to your needs. (Refer to Figure 6 for an image of the Settings App)
+You can customize your iPhone in many ways, ranging from wallpapers to the size of apps and fonts. To adjust all this information, find and click on your Settings app on your iPhone, then proceed to the corresponding section and adjust the settings to your needs. (Refer to *Figure 6* for an image of the Settings App)
 
 ![Figure 6: Settings App](images/media/image6.png)  
 **Figure 6:** Settings App
@@ -132,7 +134,7 @@ You can customize your iPhone in many ways, ranging from wallpapers to the size 
 
 ### **Section 7: Installing Apps**
 
-Many apps will already be installed on your iPhone for convenience. To install other apps, click on the App Store app, and use the search bar to find the app you need. Then click download. The app will appear on your home screen. (Refer to Figure 7 for an image of the App Store app)
+Many apps will already be installed on your iPhone for convenience. To install other apps, click on the App Store app, and use the search bar to find the app you need. Then click download. The app will appear on your home screen. (Refer to *Figure 7* for an image of the App Store app)
 
 ![Figure 7: App Store App](images/media/image7.png)  
 **Figure 7:** App Store App
