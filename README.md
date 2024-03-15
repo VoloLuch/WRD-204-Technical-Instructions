@@ -144,7 +144,7 @@ Many apps will already be installed on your iPhone for convenience. To install o
 
 
 <details>
-  <summary>Section 5: Data Transfer</summary>
+  <summary>### **Section 5: Data Transfer***</summary>
 
   Choose one of the options to transfer your data from. If you are a first-time user and do not have any data to transfer, click the last option, “Don’t Transfer Anything.” Otherwise, choose from one of the other options provided.
 
