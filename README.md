@@ -31,7 +31,7 @@ Unbox your iPhone. Inside you will find a couple of items, such as:
 Press and hold the power button (Seen on *Figure 1*) until the Apple logo appears. This will turn the iPhone on.
 
 ![Figure 1: iPhone Power Button](images/media/image1.png)
-**Figure 1:** Turning iPhone on
+***Figure 1:** Turning iPhone on*
 
 ---
 
@@ -46,7 +46,7 @@ Now the iPhone will need an internet connection to continue. Only two types of c
   - Using the needle provided in the box, insert the needle into the hole on the left side of the iPhone. A small platform will pop out. Input your SIM card and then push the platform back into its place. (Refer to *Figure 2* for location of SIM card)
 
 ![Figure 2: Inserting SIM card](images/media/image2.png)
-**Figure 2:** Inserting SIM card
+***Figure 2:** Inserting SIM card*
 
 ---
 
@@ -87,7 +87,7 @@ Follow the on-screen prompts to add your finger to the system.
 **Note:** To make sure you are on the correct screen, please refer to *Figure 3*. Adding your fingerprint will allow you to unlock your iPhone by scanning your finger on the home button.
 
 ![Figure 3: Touch ID Setup](images/media/image3.png)  
-**Figure 3:** Touch ID Setup
+***Figure 3:** Touch ID Setup*
 
 ### **Using Face ID**
 
@@ -96,7 +96,7 @@ Follow the on-screen prompts to add your face to the system.
 **Note:** To make sure you are on the correct screen, please refer to *Figure 4*. Adding your Face ID will allow you to unlock your iPhone by scanning your face through your iPhone camera.
 
 ![Figure 4: Face ID Setup](images/media/image4.png)  
-**Figure 4:** Face ID Setup
+***Figure 4:** Face ID Setup*
 
 ---
 
@@ -107,7 +107,7 @@ Choose one of the options to transfer your data from. If you are a first-time us
 **Note:** To make sure you are on the correct screen, please refer to *Figure 5*.
 
 ![Figure 5: Data Transfer Options](images/media/image5.png)  
-**Figure 5:** Data Transfer Options
+***Figure 5:** Data Transfer Options*
 
 - **Option 1:** iCloud Backup?
   - This choice is used if you have had an iPhone previously and saved all your data in iCloud. It will directly transfer your most recent data from iCloud to the new iPhone. It is mostly used if you do not own or are in possession of your old iPhone.
@@ -128,7 +128,7 @@ Choose one of the options to transfer your data from. If you are a first-time us
 You can customize your iPhone in many ways, ranging from wallpapers to the size of apps and fonts. To adjust all this information, find and click on your Settings app on your iPhone, then proceed to the corresponding section and adjust the settings to your needs. (Refer to *Figure 6* for an image of the Settings App)
 
 ![Figure 6: Settings App](images/media/image6.png)  
-**Figure 6:** Settings App
+***Figure 6:** Settings App*
 
 ---
 
@@ -137,5 +137,5 @@ You can customize your iPhone in many ways, ranging from wallpapers to the size 
 Many apps will already be installed on your iPhone for convenience. To install other apps, click on the App Store app, and use the search bar to find the app you need. Then click download. The app will appear on your home screen. (Refer to *Figure 7* for an image of the App Store app)
 
 ![Figure 7: App Store App](images/media/image7.png)  
-**Figure 7:** App Store App
+***Figure 7:** App Store App*
 
