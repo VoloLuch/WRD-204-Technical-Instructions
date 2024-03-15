@@ -80,9 +80,13 @@ Choose one of the four options to decide what type of password you want.
 
 ### **Using Touch ID**
 
-Follow the on-screen prompts to add your finger to the system.
+<div style="text-align: center;">
+  <figure>
+    <img src="images/media/image3.png" alt="Figure 3: Touch ID Setup" style="max-width: 100%;">
+    <figcaption><strong>Figure 3:</strong> Touch ID Setup</figcaption>
+  </figure>
+</div>
 
-**Note:** To make sure you are on the correct screen, please refer to Figure 2. Adding your fingerprint will allow you to unlock your iPhone by scanning your finger on the home button.
+"Follow the on-screen prompts to add your finger to the system.
 
-![Figure 3: Touch ID Setup](images/media/image3.png)  
-
+**Note:** To make sure you are on the correct screen, please refer to Figure 2. Adding your fingerprint will allow you to unlock your iPhone by scanning your finger on the home button."
