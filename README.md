@@ -138,3 +138,9 @@ Many apps will already be installed on your iPhone for convenience. To install o
 
 ![Figure 7: App Store App](images/media/image7.png)  
 ***Figure 7:** App Store App*
+
+---
+
+## **Summary**
+
+This concludes the set-up process of an iPhone, if more help is needed visit https://support.apple.com. There you can find more information on more specific topics as well as personalization and customization features on iPhones, as well as how to use and add them. You may also find additional support using the chat room or by calling Apple. 
