@@ -28,9 +28,10 @@ Unbox your iPhone. Inside you will find a couple of items, such as:
 - Apple sticker + information packet
 - needle
 
-Press and hold the power button (Seen on **Figure 1**) until the Apple logo appears. This will turn the iPhone on.
+Press and hold the power button (Seen on *Figure 1*) until the Apple logo appears. This will turn the iPhone on.
 
 ![Figure 1: iPhone Power Button](images/media/image1.png)
+**Figure 1:** Turning iPhone on
 
 ---
 
@@ -42,9 +43,10 @@ Now the iPhone will need an internet connection to continue. Only two types of c
   - Connect the iPhone to your Wi-Fi by choosing your Wi-Fi network from the list of networks found by the iPhone (a password may be required if your network requires it for connection).
 
 - **Option 2:** Using cellular service:
-  - Using the needle provided in the box, insert the needle into the hole on the left side of the iPhone. A small platform will pop out. Input your SIM card and then push the platform back into its place.
+  - Using the needle provided in the box, insert the needle into the hole on the left side of the iPhone. A small platform will pop out. Input your SIM card and then push the platform back into its place. (Refer to *Figure 2* for location of SIM card)
 
 ![Figure 2: Inserting SIM card](images/media/image2.png)
+**Figure 2:** Inserting SIM card
 
 ---
 
