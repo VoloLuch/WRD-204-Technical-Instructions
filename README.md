@@ -139,3 +139,29 @@ Many apps will already be installed on your iPhone for convenience. To install o
 ![Figure 7: App Store App](images/media/image7.png)  
 ***Figure 7:** App Store App*
 
+
+
+
+
+<details>
+  <summary>Section 5: Data Transfer</summary>
+
+  Choose one of the options to transfer your data from. If you are a first-time user and do not have any data to transfer, click the last option, “Don’t Transfer Anything.” Otherwise, choose from one of the other options provided.
+
+  **Note:** To make sure you are on the correct screen, please refer to Figure 4.
+
+  ![Figure 5: Data Transfer Options](images/media/image5.png)  
+  **Figure 5:** Data Transfer Options
+
+  - **Option 1:** iCloud Backup?
+    - This choice is used if you have had an iPhone previously and saved all your data in iCloud. It will directly transfer your most recent data from iCloud to the new iPhone. It is mostly used if you do not own or are in possession of your old iPhone.
+
+  - **Option 2:** Another iPhone?
+    - If you currently possess your old iPhone, use this option to transfer your information from your iPhone to the new one.
+
+  - **Option 3:** From Mac or PC?
+    - If you have information loaded onto your Mac or PC, use this option to transfer the information from the computer to your new iPhone.
+
+  - **Option 4:** From Android?
+    - If you previously had an Android, you could use this option to transfer all your data to your new iPhone, allowing you to transfer all your information with no fuss.
+</details>
