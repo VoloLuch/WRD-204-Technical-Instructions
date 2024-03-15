@@ -44,5 +44,5 @@ Now the iPhone will need an internet connection to continue. Only two types of c
 - **Option 2:** Using cellular service:
   - Using the needle provided in the box, insert the needle into the hole on the left side of the iPhone. A small platform will pop out. Input your SIM card and then push the platform back into its place.
 
-![Figure 2: Inserting SIM card](images/mediaimage2.png)
+![Figure 2: Inserting SIM card](images/media/image2.png)
 
