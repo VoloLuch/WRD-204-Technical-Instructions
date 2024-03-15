@@ -46,3 +46,42 @@ Now the iPhone will need an internet connection to continue. Only two types of c
 
 ![Figure 2: Inserting SIM card](images/media/image2.png)
 
+---
+
+## Section 3: Apple ID setup
+
+**After turning on the iPhone and finding a connection, you will be prompted to input your Apple ID or create one to move forward. Based on what you need, choose one of the options and fill in the required fields to move forward.**
+
+- **Option 1:** Signing in?
+  - Input your Apple ID email and password and continue.
+
+- **Option 2:** Do not have an Account?
+  - Click “Create Account,” fill in the required fields (email, password, security questions, etc.), and then continue.
+
+---
+
+## Section 4: Security
+
+### **Creating a Password**
+
+Choose one of the four options to decide what type of password you want.
+
+- **Option 1:** 4-digit passcode:
+  - Create a 4-digit pin code that you will remember and use to gain access to your iPhone. Ensure it is something only you will know and not easily accessible.
+
+- **Option 2:** 6-digit passcode:
+  - Create a 6-digit pin code that you will remember and use to gain access to your iPhone. Ensure it is something only you will know and not easily accessible.
+
+- **Option 3:** Alphabetic passcode:
+  - Create an alphabetic password that you will remember and use to gain access to your iPhone. Ensure it is something only you will know and not easily accessible.
+
+- **Option 4:** No passcode:
+  - No action required, click continue.
+
+### **Using Touch ID**
+
+![Figure 3: Touch ID Setup](images/media/image3.png)  
+"Follow the on-screen prompts to add your finger to the system.
+
+**Note:** To make sure you are on the correct screen, please refer to Figure 2. Adding your fingerprint will allow you to unlock your iPhone by scanning your finger on the home button."
+
