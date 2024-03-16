@@ -154,4 +154,5 @@ https://www.markdownguide.org/basic-syntax/
 https://support.apple.com/guide/iphone/welcome/ios
 
 *Technical Instruction in Word Doc;*
+
 https://depauledu-my.sharepoint.com/:w:/g/personal/vluchan_depaul_edu/ETZIS8H7rtJNoAi9t1nOMLoBQ8nLrBmPkV6oLFChuq2xmQ?e=ik7QXU
