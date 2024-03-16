@@ -35,7 +35,7 @@ Press and hold the power button (Seen on *Figure 1*) until the Apple logo appear
 
 ---
 
-## Section 2: How to Find a Signal
+## Section 2: Find a Signal
 
 Now the iPhone will need an internet connection to continue. Only two types of connections are allowed: either a Wi-Fi connection or a connection via cellular service. Choose the option you need accordingly.
 
@@ -50,7 +50,7 @@ Now the iPhone will need an internet connection to continue. Only two types of c
 
 ---
 
-## Section 3: Apple ID setup
+## Section 3: Set up Apple ID 
 
 **After turning on the iPhone and finding a connection, you will be prompted to input your Apple ID or create one to move forward. Based on what you need, choose one of the options and fill in the required fields to move forward.**
 
@@ -62,9 +62,9 @@ Now the iPhone will need an internet connection to continue. Only two types of c
 
 ---
 
-## Section 4: Security
+## Section 4: Secure your iPhone
 
-### **Creating a Password**
+### **Create a Password**
 
 Choose one of the four options to decide what type of password you want.
 
@@ -80,7 +80,7 @@ Choose one of the four options to decide what type of password you want.
 - **Option 4:** No passcode:
   - No action required, click continue.
 
-### **Using Touch ID**
+### **Establish Touch ID**
 
 Follow the on-screen prompts to add your finger to the system.
 
@@ -89,7 +89,7 @@ Follow the on-screen prompts to add your finger to the system.
 ![Figure 3: Touch ID Setup](images/media/image3.png)  
 ***Figure 3:** Touch ID Setup*
 
-### **Using Face ID**
+### **Establish Face ID**
 
 Follow the on-screen prompts to add your face to the system.
 
@@ -100,7 +100,7 @@ Follow the on-screen prompts to add your face to the system.
 
 ---
 
-### **Section 5: Data Transfer**
+### **Section 5: Transfer your Data**
 
 Choose one of the options to transfer your data from. If you are a first-time user and do not have any data to transfer, click the last option, “Don’t Transfer Anything.” Otherwise, choose from one of the other options provided.
 
@@ -123,7 +123,7 @@ Choose one of the options to transfer your data from. If you are a first-time us
 
 ---
 
-### **Section 6: Personalization**
+### **Section 6: Personalize your iPhone**
 
 You can customize your iPhone in many ways, ranging from wallpapers to the size of apps and fonts. To adjust all this information, find and click on your Settings app on your iPhone, then proceed to the corresponding section and adjust the settings to your needs. (Refer to *Figure 6* for an image of the Settings App)
 
@@ -132,7 +132,7 @@ You can customize your iPhone in many ways, ranging from wallpapers to the size 
 
 ---
 
-### **Section 7: Installing Apps**
+### **Section 7: Install Apps**
 
 Many apps will already be installed on your iPhone for convenience. To install other apps, click on the App Store app, and use the search bar to find the app you need. Then click download. The app will appear on your home screen. (Refer to *Figure 7* for an image of the App Store app)
 
