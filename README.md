@@ -143,4 +143,16 @@ Many apps will already be installed on your iPhone for convenience. To install o
 
 ## **Summary**
 
-This concludes the set-up process of an iPhone, if more help is needed visit https://support.apple.com. There you can find more information on more specific topics as well as personalization and customization features on iPhones, as well as how to use and add them. You may also find additional support using the chat room or by calling Apple. 
+This concludes the set-up process of an iPhone, if more help is needed visit https://support.apple.com. There you can find more information on more specific topics as well as personalization and customization features on iPhones, as well as how to use and add them. You may also find additional support using the chat room or by calling Apple Support. 
+
+---
+
+## **References**
+
+https://www.markdownguide.org/basic-syntax/
+
+https://support.apple.com/guide/iphone/welcome/ios
+
+*Technical Instructions in Word Doc;*
+https://depauledu-my.sharepoint.com/:w:/g/personal/vluchan_depaul_edu/ETZIS8H7rtJNoAi9t1nOMLoBQ8nLrBmPkV6oLFChuq2xmQ?e=ik7QXU
+
